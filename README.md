@@ -13,6 +13,10 @@ At **Al Buraq Development Studio** I'm a junior backend developer: my APIs handl
 
 ## Selected work
 
+**[Kursi](https://github.com/bakirsobashy/kursi)** · open source · [![CI](https://github.com/bakirsobashy/kursi/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bakirsobashy/kursi/actions/workflows/ci.yml)  
+Event booking REST API that never oversells: 50 people booking a 10-seat event at once get exactly 10 seats, because each booking is one conditional SQL `UPDATE`. Rotating refresh tokens, OpenAPI docs generated from Zod schemas, and 242 tests against a real PostgreSQL.  
+<sub>Node.js · TypeScript · Express 5 · PostgreSQL · Drizzle ORM · Vitest · Docker</sub>
+
 **[Budgi](https://play.google.com/store/apps/details?id=com.sobashy.Budgi)** · live on Google Play  
 Offline-first personal finance app with spending categories, monthly and per-category budgets, and progress bars for what's left.  
 <sub>React Native · TypeScript · Expo · SQLite · Drizzle ORM</sub>
@@ -43,6 +47,7 @@ Code for private projects is available on request, and I'm happy to walk through
 ![React Native](https://img.shields.io/badge/React_Native-2F3C49?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-2F3C49?style=flat-square&logo=expo&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-2F3C49?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-2F3C49?style=flat-square&logo=vitest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2F3C49?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-2F3C49?style=flat-square&logo=nginx&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-2F3C49?style=flat-square&logo=godotengine&logoColor=white)
