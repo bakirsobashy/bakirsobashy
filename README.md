@@ -21,6 +21,10 @@ Event booking REST API that never oversells: 50 people booking a 10-seat event a
 Offline-first personal finance app with spending categories, monthly and per-category budgets, and progress bars for what's left.  
 <sub>React Native · TypeScript · Expo · SQLite · Drizzle ORM</sub>
 
+**[Swap-War](https://github.com/bakirsobashy/swap-war)** · [play in the browser](https://bakirsobashy.github.io/swap-war/) · [![CI](https://github.com/bakirsobashy/swap-war/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bakirsobashy/swap-war/actions/workflows/ci.yml)  
+2D physics brawler where teams re-shuffle every 10 seconds. The AI fighters bake each arena's tiles into a graph of platforms and jumps, plan routes with A\*, and pick goals with a six-state machine. 14 headless test scripts play real matches in CI, and every push deploys the web build.  
+<sub>Godot 4.7 · GDScript · A\* pathfinding · GitHub Actions · WebAssembly</sub>
+
 **Inventory Control** · client project  
 Role-based inventory system built in cooperation with the Iraqi Ministry of Health, used daily by 50+ staff across several locations.  
 <sub>Node.js · Next.js · PostgreSQL · JWT · AWS</sub>
