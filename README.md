@@ -29,10 +29,6 @@ Offline-first personal finance app with spending categories, monthly and per-cat
 Role-based inventory system built in cooperation with the Iraqi Ministry of Health, used daily by 50+ staff across several locations.  
 <sub>Node.js · Next.js · PostgreSQL · JWT · AWS</sub>
 
-**G3 Store** · private repo  
-E-commerce REST API with JWT auth, product management, cart and orders, split into one module per area.  
-<sub>Node.js · Express · MongoDB</sub>
-
 **[MapTY](https://github.com/bakirsobashy/MapTY)** · [live demo](https://maptygeoapp.netlify.app)  
 Log runs and bike rides on a map using your location; workouts persist in the browser.  
 <sub>JavaScript · Leaflet · Geolocation API</sub>
